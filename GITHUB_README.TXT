@@ -2,13 +2,13 @@
 # git status
 # git add <filename> or . --( . for all)
 # git commit -m "test commit"
-# git remote add origin
+# git remote add origin <repo link>
 # git remote -v
 # git branch
 # git branch -m main --(to change branch name)
 
 # git push origin main
-# git push -u origin main --(for push multile time then # git push)
+# git push -u origin <new branch name> --(for push multile time then # git push)
 
 # git checkout <branch name> --(to change branch)
 # git checkout -b <branch name> --(to create new branch)
