@@ -6,6 +6,7 @@ cmd /c mklink /h package.json D:\React\root-node\package.json
 cmd /c mklink /h package-lock.json D:\React\root-node\package-lock.json
 cmd /c mklink /h tailwind.config.js D:\React\root-node\tailwind.config.js
 
+
 3. Copy in index.css file
 @tailwind base;
 @tailwind components;
