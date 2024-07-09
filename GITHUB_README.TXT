@@ -5,10 +5,10 @@
 # git remote add origin <repo link>
 # git remote -v
 # git branch
-# git branch -m main --(to change branch name)
+# git branch -m <new name> --(to change branch name)
 
 --- push commands ---
-# git push origin main
+# git push origin master
 # git push -u origin <new branch name> --(for push multile time then # git push)
 
 # git checkout <branch name> --(to change branch)
